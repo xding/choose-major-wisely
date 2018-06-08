@@ -11,17 +11,36 @@
 
 # 培养方案
 学校的培养方案值得看一看, 里面包括培养目标, 培养理念, 以及课程等等
-下面给出的是USTC的, 其他学校的可以自己搜索官网,进入查看
-* [生院](ustc-training-plan/biology.pdf)
-* [化院](ustc-training-plan/chemistry.pdf)
-* [计院](ustc-training-plan/cs.pdf)
-* [地空](ustc-training-plan/earth-and-space.pdf)
-* [工院](ustc-training-plan/engineering.pdf)
-* [少院](ustc-training-plan/giftd-young.pdf)
-* [信院](ustc-training-plan/infomation.pdf)
-* [管院](ustc-training-plan/management.pdf)
-* [数院](ustc-training-plan/math.pdf)
-* [物院](ustc-training-plan/physics.pdf)
+下面给出的是中国科学技术大学的, 其他学校的可以自己搜索官网,进入查看
+* [生院](USTC-training-plan/biology.pdf)
+* [化院](USTC-training-plan/chemistry.pdf)
+* [计院](USTC-training-plan/cs.pdf)
+* [地空](USTC-training-plan/earth-and-space.pdf)
+* [工院](USTC-training-plan/engineering.pdf)
+* [少院](USTC-training-plan/giftd-young.pdf)
+* [信院](USTC-training-plan/infomation.pdf)
+* [管院](USTC-training-plan/management.pdf)
+* [数院](USTC-training-plan/math.pdf)
+* [物院](USTC-training-plan/physics.pdf)
+
+# 清华大学2017年本科生去向
+硕士, 博士去向以及更多信息可以看[清华大学2017毕业生就业质量报告](Tsinghua-2017/graduate-employment-quality-report.pdf)
+
+![](Tsinghua-2017/undergraduate1.png)
+    
+![](Tsinghua-2017/undergraduate2.png)
+
+# 专业选择
+[根据什么选专业 洪傲(http://blog.sina.com.cn/s/blog_5406f84d0100gget.html)
+[专业的选择应该考虑什么？ - 张翼德的回答 - 知乎](https://www.zhihu.com/question/31946325/answer/53963095)
+[文科生如何选择专业？ - 判玩的回答 - 知乎](https://www.zhihu.com/question/21108231/answer/27250483)
+
+# 个人经验
+个人经验, 仅供参考.
+* 搜集资料: 自己要主动去搜集更多资料,了解更多信息, 同时注意分辨好坏.
+* 咨询他人: 个人认为不要咨询招生老师, 高中老师, 可以咨询学长,学姐
+* 实践体验: 高考完离填志愿还有一段时间,可以体验某些科目, 比如看些某些专业的专业入门书,做相关实验等等
+* ...
 
 # 认识科研
 * [科研与工作-庄思源-Qzone](https://user.qzone.qq.com/2980412917/blog/1480411676?_t_=0.2790794687199656)
