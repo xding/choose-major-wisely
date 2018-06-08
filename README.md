@@ -1,6 +1,22 @@
 # choose-major-wisely
 >收集一些关于选择专业的资料, 以提供信息给对专业了解较少而随便选择专业的同学
 
+
+<!-- vim-markdown-toc GFM -->
+
+* [说明](#说明)
+* [培养方案](#培养方案)
+* [清华大学2017年本科生去向](#清华大学2017年本科生去向)
+* [专业选择](#专业选择)
+* [个人经验](#个人经验)
+* [认识科研](#认识科研)
+* [经历经验](#经历经验)
+* [生化环材劝退](#生化环材劝退)
+* [工具](#工具)
+* [贡献](#贡献)
+
+<!-- vim-markdown-toc -->
+
 # 说明
 高中生结束高考后, 忙着填报志愿. 绝大部分高中生对各专业都很少有了解, 很可能因为分数限制, 招生信息,招生老师的引导等等而选择了不适合的专业. 特别是一些十分坑的专业, 想退很难退, 等读完本科,或者是博士, 再转专业, 就很晚了, 浪费了很多时间,精力. 
 
@@ -31,11 +47,13 @@
 ![](Tsinghua-2017/undergraduate2.png)
 
 # 专业选择
-[根据什么选专业 洪傲](http://blog.sina.com.cn/s/blog_5406f84d0100gget.html)
+* [How to Choose a Major: 5 Key Factors to Consider](https://blog.prepscholar.com/how-to-choose-a-major)
 
-[专业的选择应该考虑什么？ - 张翼德的回答 - 知乎](https://www.zhihu.com/question/31946325/answer/53963095)
+* [根据什么选专业 洪傲](http://blog.sina.com.cn/s/blog_5406f84d0100gget.html)
 
-[文科生如何选择专业？ - 判玩的回答 - 知乎](https://www.zhihu.com/question/21108231/answer/27250483)
+* [专业的选择应该考虑什么？ - 张翼德的回答 - 知乎](https://www.zhihu.com/question/31946325/answer/53963095)
+
+* [文科生如何选择专业？ - 判玩的回答 - 知乎](https://www.zhihu.com/question/21108231/answer/27250483)
 
 # 个人经验
 个人经验, 仅供参考.
@@ -47,7 +65,7 @@
 # 认识科研
 * [科研与工作-庄思源-Qzone](https://user.qzone.qq.com/2980412917/blog/1480411676?_t_=0.2790794687199656)
 
-# 经历与经验
+# 经历经验
 * [留美博士生写给后来人的辛酸回忆：你适合读博士和搞科研吗？_教子砖家梦里江河](http://blog.sina.cn/dpool/blog/s/blog_4ee63ce90102ea4x.html)
 * [别人的故事（2） - 弗兰克扬的文章 - 知乎](https://zhuanlan.zhihu.com/p/24543168)
 
