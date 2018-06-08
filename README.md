@@ -31,7 +31,7 @@
 ![](Tsinghua-2017/undergraduate2.png)
 
 # 专业选择
-[根据什么选专业 洪傲(http://blog.sina.com.cn/s/blog_5406f84d0100gget.html)
+[根据什么选专业 洪傲](http://blog.sina.com.cn/s/blog_5406f84d0100gget.html)
 [专业的选择应该考虑什么？ - 张翼德的回答 - 知乎](https://www.zhihu.com/question/31946325/answer/53963095)
 [文科生如何选择专业？ - 判玩的回答 - 知乎](https://www.zhihu.com/question/21108231/answer/27250483)
 
