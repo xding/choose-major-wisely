@@ -1,6 +1,7 @@
 # choose-major-wisely
 >收集一些关于选择专业的资料, 以提供信息给对专业了解较少而随便选择专业的同学
 
+# Table of Content
 <!-- vim-markdown-toc GFM -->
 
 * [说明](#说明)
