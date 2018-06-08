@@ -9,8 +9,19 @@
 我以前选专业也是随便选的,完全不了解, 然后看到一个直系学长选了那个专业,我就选了. 后来发现一点也不喜欢, 然后就转了. 这里感谢科大的自由转专业制度.
 
 
-## to do
-最近收集的主要是一些劝退信息,以后有时间会补充各专业的介绍等信息
+# 培养方案
+学校的培养方案值得看一看, 里面包括培养目标, 培养理念, 以及课程等等
+下面给出的是USTC的, 其他学校的可以自己搜索官网,进入查看
+* [生院](ustc-training-plan/biology.pdf)
+* [化院](ustc-training-plan/chemistry.pdf)
+* [计院](ustc-training-plan/cs.pdf)
+* [地空](ustc-training-plan/earth-and-space.pdf)
+* [工院](ustc-training-plan/engineering.pdf)
+* [少院](ustc-training-plan/giftd-young.pdf)
+* [信院](ustc-training-plan/infomation.pdf)
+* [管院](ustc-training-plan/management.pdf)
+* [数院](ustc-training-plan/math.pdf)
+* [物院](ustc-training-plan/physics.pdf)
 
 # 认识科研
 * [科研与工作-庄思源-Qzone](https://user.qzone.qq.com/2980412917/blog/1480411676?_t_=0.2790794687199656)
