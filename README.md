@@ -36,20 +36,21 @@ emmm, 这里有hao123做的导航, [点击查看](http://www.hao123.com/edu)
 
 # 培养方案
 学校的培养方案值得看一看, 里面包括培养目标, 培养理念, 以及课程等等
-下面给出的是中国科学技术大学的培养方案(pdf), 其他学校的可以自己进入官网查看
-* [生院](USTC-training-plan/biology.pdf)
-* [化院](USTC-training-plan/chemistry.pdf)
-* [计院](USTC-training-plan/cs.pdf)
-* [地空](USTC-training-plan/earth-and-space.pdf)
-* [工院](USTC-training-plan/engineering.pdf)
-* [少院](USTC-training-plan/giftd-young.pdf)
-* [信院](USTC-training-plan/infomation.pdf)
-* [管院](USTC-training-plan/management.pdf)
-* [数院](USTC-training-plan/math.pdf)
-* [物院](USTC-training-plan/physics.pdf)
+下面给出的是中国科学技术大学的培养方案, 其他学校的可以自己进入官网查看
+(点击下载pdf)
+* [生院](https://raw.githubusercontent.com/mbinary/choose-major-wisely/master/USTC-training-plan/biology.pdf)
+* [化院](https://raw.githubusercontent.com/mbinary/choose-major-wisely/master/USTC-training-plan/chemistry.pdf)
+* [计院](https://raw.githubusercontent.com/mbinary/choose-major-wisely/master/USTC-training-plan/cs.pdf)
+* [地空](https://raw.githubusercontent.com/mbinary/choose-major-wisely/master/USTC-training-plan/earth-and-space.pdf)
+* [工院](https://raw.githubusercontent.com/mbinary/choose-major-wisely/master/USTC-training-plan/engineering.pdf)
+* [少院](https://raw.githubusercontent.com/mbinary/choose-major-wisely/master/USTC-training-plan/giftd-young.pdf)
+* [信院](https://raw.githubusercontent.com/mbinary/choose-major-wisely/master/USTC-training-plan/infomation.pdf)
+* [管院](https://raw.githubusercontent.com/mbinary/choose-major-wisely/master/USTC-training-plan/management.pdf)
+* [数院](https://raw.githubusercontent.com/mbinary/choose-major-wisely/master/USTC-training-plan/math.pdf)
+* [物院](https://raw.githubusercontent.com/mbinary/choose-major-wisely/master/USTC-training-plan/physics.pdf)
 
 # 本科生去向
-上网查看各专业的毕业生去向也能了解做为选择专业的依据, 下面是清华大学2017年本科生去向,硕士, 博士去向以及更多信息可以看[清华大学2017毕业生就业质量报告(pdf)](Tsinghua-2017/graduate-employment-quality-report.pdf)
+上网查看各专业的毕业生去向也能了解做为选择专业的依据, 下面是清华大学2017年本科生去向,硕士, 博士去向以及更多信息可以看[清华大学2017毕业生就业质量报告(pdf下载)](https://raw.githubusercontent.com/mbinary/choose-major-wisely/master/Tsinghua-2017/graduate-employment-quality-report.pdf)
 
 ![](Tsinghua-2017/undergraduate1.png)
     
