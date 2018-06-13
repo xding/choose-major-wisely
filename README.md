@@ -65,6 +65,7 @@ emmm, 这里有hao123做的导航, [点击查看](http://www.hao123.com/edu)
 
 * [文科生如何选择专业？ - 判玩的回答 - 知乎](https://www.zhihu.com/question/21108231/answer/27250483)
 
+* [中考高考主页君的 QQ 空间](https://user.qzone.qq.com/2220112228/mood/64395484d204215b39e80500?_t_=0.5574310820768789)
 
 # 认识科研
 * [科研与工作-庄思源-Qzone](https://user.qzone.qq.com/2980412917/blog/1480411676?_t_=0.2790794687199656)
