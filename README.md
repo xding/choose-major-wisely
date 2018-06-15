@@ -10,10 +10,12 @@
 * [培养方案](#培养方案)
 * [本科生去向](#本科生去向)
 * [专业选择](#专业选择)
+* [认识自己](#认识自己)
+    * [志向](#志向)
+    * [MBTI职业性格测试](#MBTI职业性格测试)
 * [认识科研](#认识科研)
 * [经历经验](#经历经验)
 * [生化环材劝退](#生化环材劝退)
-* [工具](#工具)
 * [贡献](#贡献)
 
 <!-- vim-markdown-toc -->
@@ -75,6 +77,16 @@ emmm, 这里有hao123做的导航, [点击查看](http://www.hao123.com/edu)
 
 * [中考高考主页君的 QQ 空间](https://user.qzone.qq.com/2220112228/mood/64395484d204215b39e80500?_t_=0.5574310820768789)
 
+# 认识自己
+## 志向
+* [人类为什么会有「雄心壮志」？为何有人「小富即安」，有人有「鸿鹄之志」？ - 唐僧同志的回答 - 知乎](https://www.zhihu.com/question/21568048/answer/18848977)
+* [如何确定你真正想做的事情到底是什么？ - 叶昭苏的回答 - 知乎](https://www.zhihu.com/question/24272298/answer/32399629)
+
+## MBTI职业性格测试
+* [才储](www.apesk.com/mbti/dati.asp)
+* [新精英](http://www.xjy.cn/ceping/mbti.htm#main)
+* [小数据](https://www.arealme.com/16types/cn/)
+ 
 # 认识科研
 * [科研与工作-庄思源-Qzone](https://user.qzone.qq.com/2980412917/blog/1480411676?_t_=0.2790794687199656)
 
@@ -102,11 +114,6 @@ emmm, 这里有hao123做的导航, [点击查看](http://www.hao123.com/edu)
     - [《劝退学导论》第二部分（上） - 到处挖坑蒋玉成的文章 - 知乎](https://zhuanlan.zhihu.com/p/27188243)
     - [《劝退学导论》第二部分（下）更新 - 到处挖坑蒋玉成的文章 - 知乎](https://zhuanlan.zhihu.com/p/28740169)
     
-    
-# MBTI职业性格测试
-* [才储](www.apesk.com/mbti/dati.asp)
-* [新精英](http://www.xjy.cn/ceping/mbti.htm#main)
-* [小数据](https://www.arealme.com/16types/cn/)
 
 # 贡献
 欢迎 fork and pr, 无论是网上的资料,还是你自己的经历经验等, 都可以分享给大家.
