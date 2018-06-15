@@ -50,11 +50,18 @@ emmm, 这里有hao123做的导航, [点击查看](http://www.hao123.com/edu)
 * [物院](https://raw.githubusercontent.com/mbinary/choose-major-wisely/master/USTC-training-plan/physics.pdf)
 
 # 本科生去向
-上网查看各专业的毕业生去向也能了解做为选择专业的依据, 下面是清华大学2017年本科生去向,硕士, 博士去向以及更多信息可以看[清华大学2017毕业生就业质量报告(pdf下载)](https://raw.githubusercontent.com/mbinary/choose-major-wisely/master/Tsinghua-2017/graduate-employment-quality-report.pdf)
+上网查看各专业的毕业生去向也是选择专业的依据之一
+
+* [中国科学技术大学 2013~2017本科生去向](https://mp.weixin.qq.com/s/mxOlARwN50HgGog9074ejw)
+
+* 清华大学2017毕业生就业质量报告
+下面是清华大学2017年本科生去向,硕士和博士去向以及更多信息可以[下载 pdf 查看](https://raw.githubusercontent.com/mbinary/choose-major-wisely/master/Tsinghua-2017/graduate-employment-quality-report.pdf)
 
 ![](Tsinghua-2017/undergraduate1.png)
     
 ![](Tsinghua-2017/undergraduate2.png)
+
+
 
 # 专业选择
 * [How to Choose a Major: 5 Key Factors to Consider](https://blog.prepscholar.com/how-to-choose-a-major)
@@ -96,7 +103,8 @@ emmm, 这里有hao123做的导航, [点击查看](http://www.hao123.com/edu)
     
     
 # 工具
-* [免费职业性格测试](https://www.arealme.com/16types/cn/)
+* [职业性格测试1](https://www.arealme.com/16types/cn/)
+* [MBTI职业性格测试](http://www.xjy.cn/ceping/mbti.htm#main)
 
 
 # 贡献
