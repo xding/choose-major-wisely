@@ -55,6 +55,7 @@ emmm, 这里有hao123做的导航, [点击查看](http://www.hao123.com/edu)
 * [中国科学技术大学 2013~2017本科生去向](https://mp.weixin.qq.com/s/mxOlARwN50HgGog9074ejw)
 
 * 清华大学2017毕业生就业质量报告
+
 下面是清华大学2017年本科生去向,硕士和博士去向以及更多信息可以[下载 pdf 查看](https://raw.githubusercontent.com/mbinary/choose-major-wisely/master/Tsinghua-2017/graduate-employment-quality-report.pdf)
 
 ![](Tsinghua-2017/undergraduate1.png)
