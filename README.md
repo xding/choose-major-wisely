@@ -103,10 +103,10 @@ emmm, 这里有hao123做的导航, [点击查看](http://www.hao123.com/edu)
     - [《劝退学导论》第二部分（下）更新 - 到处挖坑蒋玉成的文章 - 知乎](https://zhuanlan.zhihu.com/p/28740169)
     
     
-# 工具
-* [职业性格测试1](https://www.arealme.com/16types/cn/)
-* [MBTI职业性格测试](http://www.xjy.cn/ceping/mbti.htm#main)
-
+# MBTI职业性格测试
+* [才储](www.apesk.com/mbti/dati.asp)
+* [新精英](http://www.xjy.cn/ceping/mbti.htm#main)
+* [小数据](https://www.arealme.com/16types/cn/)
 
 # 贡献
 欢迎 fork and pr, 无论是网上的资料,还是你自己的经历经验等, 都可以分享给大家.
