@@ -95,7 +95,7 @@ emmm, 这里有hao123做的导航, [点击查看](http://www.hao123.com/edu)
 * [如何确定你真正想做的事情到底是什么？ - 叶昭苏的回答 - 知乎](https://www.zhihu.com/question/24272298/answer/32399629)
 
 ## MBTI职业性格测试
-* [才储](www.apesk.com/mbti/dati.asp)
+* [才储](http://www.apesk.com/mbti/dati.asp)
 * [新精英](http://www.xjy.cn/ceping/mbti.htm#main)
 * [小数据](https://www.arealme.com/16types/cn/)
  
